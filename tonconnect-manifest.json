@@ -2,4 +2,6 @@
   "url": "https://Iulian85.github.io/eliezer-manifest/",
   "name": "Eliezer DApp",
   "iconUrl": "https://Iulian85.github.io/eliezer-manifest/icon.png"
+  "termsOfUseUrl": "<terms-of-use-url>",     // optional
+  "privacyPolicyUrl": "<privacy-policy-url>"
 }
