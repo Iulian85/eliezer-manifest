@@ -1,5 +1,5 @@
 {
-   "manifest_version": "0.0.1",
+  "manifest_version": "0.0.1",
   "name": "Eliezer App",
   "url": "https://iulian85.github.io/",
   "iconUrl": "https://raw.githubusercontent.com/Iulian85/eliezer-manifest/main/icon.png",
@@ -7,4 +7,5 @@
   "privacyPolicyUrl": "https://iulian85.github.io/privacy",
   "webview": {
     "enabled": false
+  }
 }
