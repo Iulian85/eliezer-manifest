@@ -1,7 +1,7 @@
 {
   "url": "https://eliezer.app",
   "name": "ELZR Wallet Connect",
-  "iconUrl": "https://github.com/Iulian85/eliezer-manifest/blob/main/icon.png"
+  "iconUrl": "https://raw.githubusercontent.com/Iulian85/eliezer-manifest/refs/heads/main/icon.png"
   "termsOfUseUrl": "https://eliezer.app/terms.html",
   "privacyPolicyUrl": "https://eliezer.app/privacy.html"
 }
