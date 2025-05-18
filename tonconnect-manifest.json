@@ -1,7 +1,7 @@
 {
-  "url": "https://Iulian85.github.io/eliezer-manifest/",
-  "name": "Eliezer DApp",
+  "url": "https://eliezer.app",
+  "name": "ELZR Wallet Connect",
   "iconUrl": "https://Iulian85.github.io/eliezer-manifest/icon.png"
-  "termsOfUseUrl": "<terms-of-use-url>",
-  "privacyPolicyUrl": "<privacy-policy-url>"
+  "termsOfUseUrl": "https://eliezer.app/terms.html",
+  "privacyPolicyUrl": "https://eliezer.app/privacy.html"
 }
