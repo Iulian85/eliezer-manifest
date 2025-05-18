@@ -3,9 +3,4 @@
   "name": "Eliezer App",
   "url": "https://iulian85.github.io/",
   "iconUrl": "https://raw.githubusercontent.com/Iulian85/eliezer-manifest/main/icon.png",
-  "termsOfUseUrl": "https://iulian85.github.io/terms",
-  "privacyPolicyUrl": "https://iulian85.github.io/privacy",
-  "webview": {
-    "enabled": false
-  }
 }
